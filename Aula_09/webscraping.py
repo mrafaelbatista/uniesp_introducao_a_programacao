@@ -7,13 +7,13 @@ import csv
 from bs4 import BeautifulSoup
 
 
-f = csv.writer(open('a-artist-names.csv', 'w'))
+f = csv.writer(open('m-artist-names.csv', 'w'))
 f.writerow(['Name', 'Link'])
 
 pages = []
 
-for i in range(1, 5):
-    url = 'https://web.archive.org/web/20121007172955/https://www.nga.gov/collection/anS' + str(i) + '.htm'
+for i in range(3, 7):
+    url = 'https://web.archive.org/web/20121007172955/https://www.nga.gov/collection/anM' + str(i) + '.htm'
     pages.append(url)
 
 
