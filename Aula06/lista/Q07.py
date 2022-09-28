@@ -2,6 +2,7 @@ cadastros = []
 
 botao = 1000
 while botao != 0:
+    # teste comite
     print("Digite 1 para cadastrar um novo usuário")
     print("Digite 2 para imprimir todos os usuários")
     print("Digite 0 para sair")
@@ -21,7 +22,7 @@ while botao != 0:
         
         for p in cadastros:
             print(p)
-            
+
     elif botao == 0:
         print("Obrigado por acessar este software!")
 
