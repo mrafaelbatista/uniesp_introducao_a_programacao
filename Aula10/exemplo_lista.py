@@ -19,11 +19,11 @@
 lista_mercado = []
 
 while True:
-    op = input("1 - Adicionar frutas\n \
+    op = int(input("1 - Adicionar frutas\n \
                 2 - Remover frutas \n \
                 3 - Lista frutas \n \
                 0 - Sair do programa \n \
-                Digite a opção: ")
+                Digite a opção: "))
     
     if op == 1:
         # Adicionar objetos a lista
