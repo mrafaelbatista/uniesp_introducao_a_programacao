@@ -43,3 +43,5 @@ while True:
 
     elif op == 0:
         break
+
+print(lista_mercado)
