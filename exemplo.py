@@ -12,3 +12,5 @@ objetos    = json.loads(resposta.text)
 
 for i in objetos:
     print(f"{i} :: {objetos[i]}")
+
+# https://api.openweathermap.org/data/2.5/weather?lat={-7.11532}&lon={-34.861}&appid={2f2f555888d23e5a36c5aad583ebfae9}
