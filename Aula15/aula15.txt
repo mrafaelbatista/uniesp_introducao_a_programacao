@@ -1,4 +1,4 @@
-Python
-Java
-JavaScript
-Go
+1.Python
+2.Java
+3.JavaScript
+4.Go
