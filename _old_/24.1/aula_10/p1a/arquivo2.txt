@@ -1,0 +1,5 @@
+Eu amo Python!
+Eu amo Java!
+Eu amo SQL!
+Eu amo Pandas!
+Eu amo Sklearn!
