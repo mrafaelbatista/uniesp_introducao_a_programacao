@@ -26,26 +26,3 @@ if __name__ == '__main__':
             print('Essa arma não funciona!')
 
         controle_opcao = int(input('Digite: \n0 para continuar e \n-1 para finalizar'))
-
-
-# # Crie um programa que receba os valores de ataque e durabilidade das três armas
-# espada_atq = int(input('Digite o ataque da espada: '))
-# espada_dur = int(input('Digite a durabilidade da espada: '))
-
-# arco_atq = int(input('Digite o ataque da arco: '))
-# arco_dur = int(input('Digite a durabilidade da arco: '))
-
-# lanca_atq = int(input('Digite o ataque da lanca: '))
-# lanca_dur = int(input('Digite a durabilidade da lanca: '))
-
-# # determine qual é a mais adequada. => Atq > 50 and Dur > 70
-# if espada_atq > 50 and espada_dur > 70:
-#     print('Utilize a espada!')
-# elif arco_atq > 50 and arco_dur > 70:
-#     print('Utilize o arco!')
-# elif lanca_atq > 50 and lanca_dur > 70:
-#     print('Utilize a lança!')
-# else: # Se nenhuma atender, o programa deve sugerir que o herói busque uma nova arma.
-#     print('Escolha outra arma!')
-
-
