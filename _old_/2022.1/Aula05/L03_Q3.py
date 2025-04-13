@@ -28,6 +28,6 @@ print("%0.5f" % (resultado))
 em um texto em caixa alta.'''
 print("Messias".upper())
 
-'''Utilizando o método upper() no retorno do input'''
+'''Utilizando o método upper() no retorno.txt do input'''
 nome = input("Digite seu nome: ").upper()
 print(f'Seu nome {nome}, é legal!')

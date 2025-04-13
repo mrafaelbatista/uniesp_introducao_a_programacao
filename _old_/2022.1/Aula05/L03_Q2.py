@@ -1,7 +1,7 @@
-'''A variável nome recebe o retorno da função input.
+'''A variável nome recebe o retorno.txt da função input.
 input() tem um argumento que é a mensagem passada no
 terminal, e recebe um valor digitado no teclado.
-Seu retorno é fundamentalmente uma String'''
+Seu retorno.txt é fundamentalmente uma String'''
 nome = input("Digite seu nome, por favor: ")
 
 '''A função print, abaixo, recebe uma string formatada.
