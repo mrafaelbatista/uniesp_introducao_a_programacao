@@ -16,8 +16,7 @@ posicao = MIN
 
 for i in range(len(vetor10)):
     print(f'Iniciando o ciclo {i}')
-    print(f'Maior Valor: {maior_valor} \
-    e Vetor: {vetor10[i]}')
+    print(f'Maior Valor: {maior_valor} e Vetor: {vetor10[i]}')
     if maior_valor < vetor10[i]:
         maior_valor = vetor10[i]
         posicao = i
