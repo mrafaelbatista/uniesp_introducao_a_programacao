@@ -21,5 +21,10 @@ for i in range(len(matriz)):
             maior_valor = matriz[i][j]
             posicao = [i, j]
 
+print('Matriz Completa')
+for linha in matriz:
+    print(linha)
 
+print(f'Maior valor: {maior_valor}')
+print(f'Posição / Índice {posicao}')
 
