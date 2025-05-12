@@ -1,4 +1,4 @@
-API_KEY_GEMINI = 'AIzaSyBCfA45yx8WeodySNKPOIZZoU12dohbVn4'
+API_KEY_GEMINI =
 
 from google import genai
 
